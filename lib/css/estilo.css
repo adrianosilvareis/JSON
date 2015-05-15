@@ -1,0 +1,12 @@
+body{
+	background-image: url('/JSON/lib/img/fundo.png');
+}
+.conteudo{
+	background-color: white;
+	border-radius: 25px;
+	padding: 20px;
+	border: 2px solid gray;
+	margin-top: 3%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
