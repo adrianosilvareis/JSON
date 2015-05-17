@@ -4,11 +4,7 @@
 	<title>JSON</title>
 	<meta charset="UTF-8"/>
 	<script src="lib/angular/angular.js"></script>
-	<script src="js/app.js"></script>
-	<script src="js/services/configValue.js"></script>
-	<script src="js/controller/function.js"></script>
-	<script src="js/services/servicosAPI.js"></script>
-
+	<script src="js/function.js"></script>
 	<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.css"/>
 	<link rel="stylesheet" type="text/css" href="lib/css/estilo.css"/>
 </head>
@@ -56,6 +52,6 @@
 			</tr>
 		</table>
 	</div>
-	<div class="footer">&copy Todos os direitos reservados a <strong>Adriano Reis</strong></div>
+
 </body>
 </html>
